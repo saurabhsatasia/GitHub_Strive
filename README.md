@@ -10,3 +10,8 @@
 * Day 6: Numpy
 * Day 7: Pandas
 * Day 8: Web-Scrapping
+* Day 9: No Code Tools
+* Day 10: Matplotlib + IMDB WebScrapping
+
+### Week:3
+* Day 11: Mathematics
