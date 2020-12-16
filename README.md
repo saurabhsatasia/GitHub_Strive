@@ -15,3 +15,5 @@
 
 ### Week:3
 * Day 11: Mathematics
+* Day 12: Calculus
+* Day 13: Precalculus
