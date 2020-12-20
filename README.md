@@ -17,3 +17,5 @@
 * Day 11: Mathematics
 * Day 12: Calculus
 * Day 13: Precalculus
+* Day 14: Probality, Permutation and Combination
+* Day 15: Project
